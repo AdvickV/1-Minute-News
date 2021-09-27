@@ -130,7 +130,7 @@ class NewsBrain:
 
         news_parameters = {
             "q": company,
-            "apiKey": "c1d065536406409ab101a4e7f5a47645",
+            "apiKey": "YOUR API KEY",
             "from": yesterday,
             "to": yesterday
         }
